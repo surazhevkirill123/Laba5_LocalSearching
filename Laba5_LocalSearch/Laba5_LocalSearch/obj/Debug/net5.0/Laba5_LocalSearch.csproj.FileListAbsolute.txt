@@ -1,0 +1,16 @@
+C:\Users\Кирилл\source\repos\Laba5_LocalSearch\Laba5_LocalSearch\bin\Debug\net5.0\Laba5_LocalSearch.exe
+C:\Users\Кирилл\source\repos\Laba5_LocalSearch\Laba5_LocalSearch\bin\Debug\net5.0\Laba5_LocalSearch.deps.json
+C:\Users\Кирилл\source\repos\Laba5_LocalSearch\Laba5_LocalSearch\bin\Debug\net5.0\Laba5_LocalSearch.runtimeconfig.json
+C:\Users\Кирилл\source\repos\Laba5_LocalSearch\Laba5_LocalSearch\bin\Debug\net5.0\Laba5_LocalSearch.runtimeconfig.dev.json
+C:\Users\Кирилл\source\repos\Laba5_LocalSearch\Laba5_LocalSearch\bin\Debug\net5.0\Laba5_LocalSearch.dll
+C:\Users\Кирилл\source\repos\Laba5_LocalSearch\Laba5_LocalSearch\bin\Debug\net5.0\ref\Laba5_LocalSearch.dll
+C:\Users\Кирилл\source\repos\Laba5_LocalSearch\Laba5_LocalSearch\bin\Debug\net5.0\Laba5_LocalSearch.pdb
+C:\Users\Кирилл\source\repos\Laba5_LocalSearch\Laba5_LocalSearch\obj\Debug\net5.0\Laba5_LocalSearch.csprojAssemblyReference.cache
+C:\Users\Кирилл\source\repos\Laba5_LocalSearch\Laba5_LocalSearch\obj\Debug\net5.0\Laba5_LocalSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\source\repos\Laba5_LocalSearch\Laba5_LocalSearch\obj\Debug\net5.0\Laba5_LocalSearch.AssemblyInfoInputs.cache
+C:\Users\Кирилл\source\repos\Laba5_LocalSearch\Laba5_LocalSearch\obj\Debug\net5.0\Laba5_LocalSearch.AssemblyInfo.cs
+C:\Users\Кирилл\source\repos\Laba5_LocalSearch\Laba5_LocalSearch\obj\Debug\net5.0\Laba5_LocalSearch.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\source\repos\Laba5_LocalSearch\Laba5_LocalSearch\obj\Debug\net5.0\Laba5_LocalSearch.dll
+C:\Users\Кирилл\source\repos\Laba5_LocalSearch\Laba5_LocalSearch\obj\Debug\net5.0\ref\Laba5_LocalSearch.dll
+C:\Users\Кирилл\source\repos\Laba5_LocalSearch\Laba5_LocalSearch\obj\Debug\net5.0\Laba5_LocalSearch.pdb
+C:\Users\Кирилл\source\repos\Laba5_LocalSearch\Laba5_LocalSearch\obj\Debug\net5.0\Laba5_LocalSearch.genruntimeconfig.cache
